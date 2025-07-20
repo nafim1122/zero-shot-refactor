@@ -1,0 +1,8 @@
+
+You are an expert code reviewer.
+
+Here is the structure of the code (call graph or AST):
+{structure}
+
+Refactor the code to improve modularity, reduce complexity, and enhance readability.
+Return only the refactored code.
